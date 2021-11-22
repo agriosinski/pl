@@ -5,573 +5,373 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
 #EXTINF:-1,TVP3 Gdansk
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgdansk
-#EXTINF:-1,PL| TVN FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37365
-#EXTINF:-1,PL| TVN
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37366
-#EXTINF:-1,PL| TVN 7 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37367
-#EXTINF:-1,PL| TVN 7 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37368
-#EXTINF:-1,PL| Polsat FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37369
-#EXTINF:-1,PL| Polsat HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37370
-#EXTINF:-1,PL| Polsat 2 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37371
-#EXTINF:-1,PL| Polsat 2 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37372
-#EXTINF:-1,PL| Polsat 2
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37373
-#EXTINF:-1,PL| TV4 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37374
-#EXTINF:-1,PL| TV 4 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37375
-#EXTINF:-1,PL| TV 4
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37376
-#EXTINF:-1,PL| TVP 1 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37377
-#EXTINF:-1,PL| TVP 1 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37378
-#EXTINF:-1,PL| TVP 2 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37379
-#EXTINF:-1,PL| TVP 2
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37380
-#EXTINF:-1,PL| HBO 1 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37381
-#EXTINF:-1,PL| HBO 1 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37382
-#EXTINF:-1,PL| HBO 2 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37383
-#EXTINF:-1,PL| HBO 2 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37384
-#EXTINF:-1,PL| HBO 3 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37385
-#EXTINF:-1,PL| Polsat Film FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37396
-#EXTINF:-1,PL| Polsat Film HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37397
-#EXTINF:-1,PL| AXN FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37399
-#EXTINF:-1,PL| AXN HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37400
-#EXTINF:-1,PL| AXN Black
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37401
-#EXTINF:-1,PL| AXN White
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37402
-#EXTINF:-1,PL| AXN Spin FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37403
-#EXTINF:-1,PL| AXN Spin
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37404
-#EXTINF:-1,PL| FOX FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37405
-#EXTINF:-1,PL| FOX
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37406
-#EXTINF:-1,PL| FOX Comedy FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37407
-#EXTINF:-1,PL| Fox Comedy
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37408
-#EXTINF:-1,PL| Filmbox Action HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37409
-#EXTINF:-1,PL| Filmbox Action
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37410
-#EXTINF:-1,PL| FilmBox Arthouse
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37411
-#EXTINF:-1,PL| Filmbox Extra HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37412
-#EXTINF:-1,PL| Filmbox Extra
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37413
-#EXTINF:-1,PL| Filmbox Family
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37414
-#EXTINF:-1,PL| Filmbox Premium HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37415
-#EXTINF:-1,PL| CineMax 1 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37416
-#EXTINF:-1,PL| CineMax 1 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37417
-#EXTINF:-1,PL| Cinemax 2 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37418
-#EXTINF:-1,PL| CBS Europe HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37419
-#EXTINF:-1,PL| CBS Europa FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37420
-#EXTINF:-1,PL| CBS Reality
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37421
-#EXTINF:-1,PL| 13 Ulica FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37422
-#EXTINF:-1,PL| 13 Ulica
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37423
-#EXTINF:-1,PL| Ale Kino+ FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37424
-#EXTINF:-1,PL| Ale Kino+ HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37425
-#EXTINF:-1,PL| Comedy Central FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37426
-#EXTINF:-1,PL| Comedy Central
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37427
-#EXTINF:-1,PL| Comedy Central Family
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37428
-#EXTINF:-1,PL| Kino Polska
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37429
-#EXTINF:-1,PL| Kino TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37430
-#EXTINF:-1,PL| Paramount Channel FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37431
-#EXTINF:-1,PL| SciFi Universal
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37432
-#EXTINF:-1,PL| TNT FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37433
-#EXTINF:-1,PL| TNT HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37434
-#EXTINF:-1,PL| TNT
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37435
-#EXTINF:-1,PL| AMC FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37436
-#EXTINF:-1,PL| AMC
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37437
-#EXTINF:-1,PL| Active Family
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37438
-#EXTINF:-1,PL| TVN Fabula FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37439
-#EXTINF:-1,PL| Polsat Romans
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37440
-#EXTINF:-1,PL| Romance FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37441
-#EXTINF:-1,PL| TVP Seriale
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37442
-#EXTINF:-1,PL| Adventure FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37480
-#EXTINF:-1,PL| Animalanet FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37481
-#EXTINF:-1,PL| BBC Brit FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37482
-#EXTINF:-1,PL| BBC Earth HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37483
-#EXTINF:-1,PL| BBC HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37484
-#EXTINF:-1,PL| Canal+ Dokument FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37485
-#EXTINF:-1,PL| Crime Investigation Polsat FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37486
-#EXTINF:-1,PL| DTX FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37487
-#EXTINF:-1,PL| DTX HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37488
-#EXTINF:-1,PL| Da Vinci Learning
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37489
-#EXTINF:-1,PL| Discovery Channel FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37490
-#EXTINF:-1,PL| Discovery Channel HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37491
-#EXTINF:-1,PL| Discovery Historia
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37492
-#EXTINF:-1,PL| Discovery Life FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37493
-#EXTINF:-1,PL| Discovery Life
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37494
-#EXTINF:-1,PL| Discovery Science HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37495
-#EXTINF:-1,PL| Fokus TV FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37496
-#EXTINF:-1,PL| History FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37497
-#EXTINF:-1,PL| History
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37498
-#EXTINF:-1,PL| History 2 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37499
-#EXTINF:-1,PL| Investigation Discovery FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37500
-#EXTINF:-1,PL| Investigation Discovery
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37501
-#EXTINF:-1,PL| Nat Geo FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37502
-#EXTINF:-1,PL| Nat Geo
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37503
-#EXTINF:-1,PL| Nat Geo People FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37504
-#EXTINF:-1,PL| Nat Geo Wild FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37505
-#EXTINF:-1,PL| Nat Geo Wild
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37506
-#EXTINF:-1,PL| Motorwizja
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37507
-#EXTINF:-1,PL| Planete+ FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37508
-#EXTINF:-1,PL| Planete+
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37509
-#EXTINF:-1,PL| Polsat Doku FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37510
-#EXTINF:-1,PL| Polsat Viasat History FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37511
-#EXTINF:-1,PL| POLSAT Viasat Explore FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37512
-#EXTINF:-1,PL| POLSAT Viasat Nature
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37513
-#EXTINF:-1,PL| TVN Turbo FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37514
-#EXTINF:-1,PL| TVN Turbo
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37515
-#EXTINF:-1,PL| TVP Historia
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37516
-#EXTINF:-1,PL| TheBlaze TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37517
-#EXTINF:-1,PL| Travel HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37518
-#EXTINF:-1,PL| 4Fun Dance
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37519
-#EXTINF:-1,PL| 4Fun Gold Hits
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37520
-#EXTINF:-1,PL| 4Fun TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37521
-#EXTINF:-1,PL| ATM Rozrywka TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37522
-#EXTINF:-1,PL| Disco Polo Music HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37523
-#EXTINF:-1,PL| Disco Polo Music
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37524
-#EXTINF:-1,PL| Eska TV Extra
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37525
-#EXTINF:-1,PL| Eska TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37526
-#EXTINF:-1,PL| HIP HOP TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37527
-#EXTINF:-1,PL| Kino Polska Muzyka
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37528
-#EXTINF:-1,PL| MTV Dance HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37529
-#EXTINF:-1,PL| MTV Live FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37530
-#EXTINF:-1,PL| MTV Polska FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37531
-#EXTINF:-1,PL| MTV Polska
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37532
-#EXTINF:-1,PL| Nuta.TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37533
-#EXTINF:-1,PL| Polo TV FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37534
-#EXTINF:-1,PL| Polsat Music FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37535
-#EXTINF:-1,PL| Power TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37536
-#EXTINF:-1,PL| TO!TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37537
-#EXTINF:-1,PL| TVP Rozrywka
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37538
-#EXTINF:-1,PL| VOX Music TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37539
-#EXTINF:-1,PL| VH1
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37540
-#EXTINF:-1,PL| Stars TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37541
-#EXTINF:-1,PL| Trace Urban Muzik HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37542
-#EXTINF:-1,PL| TVN 24 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37543
-#EXTINF:-1,PL| TVN 24 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37544
-#EXTINF:-1,PL| TVN 24
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37545
-#EXTINF:-1,PL| TVN 24 BiS FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37546
-#EXTINF:-1,PL| Polsat News FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37547
-#EXTINF:-1,PL| Polsat News
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37548
-#EXTINF:-1,PL| Polsat News 2
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37549
-#EXTINF:-1,PL| TVP Info FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37550
-#EXTINF:-1,PL| TVP Info
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37551
-#EXTINF:-1,PL| Baby TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37552
-#EXTINF:-1,PL| Boomerang
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37553
-#EXTINF:-1,PL| Cartoon Network FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37554
-#EXTINF:-1,PL| Cbeebies
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37555
-#EXTINF:-1,PL| Disney Channel FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37556
-#EXTINF:-1,PL| Disney Junior
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37557
-#EXTINF:-1,PL| Disney XD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37558
-#EXTINF:-1,PL| MiniMini+ FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37559
-#EXTINF:-1,PL| MiniMini+ HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37560
-#EXTINF:-1,PL| Nick JR.
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37561
-#EXTINF:-1,PL| Nickelodeon
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37562
-#EXTINF:-1,PL| POLSAT JimJam
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37563
-#EXTINF:-1,PL| TVP ABC
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37564
-#EXTINF:-1,PL| TeleToon+ FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37565
-#EXTINF:-1,PL| TeleToon+
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37566
-#EXTINF:-1,PL| Kuchnia+ FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37567
-#EXTINF:-1,PL| Kuchnia+ HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37568
-#EXTINF:-1,PL| HGTV FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37569
-#EXTINF:-1,PL| HGTV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37570
-#EXTINF:-1,PL| Food Network FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37571
-#EXTINF:-1,PL| TLC FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37572
-#EXTINF:-1,PL| TLC
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37573
-#EXTINF:-1,PL| TTV FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37574
-#EXTINF:-1,PL| Domo+ HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37575
-#EXTINF:-1,PL| E! FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37576
-#EXTINF:-1,PL| Epic Drama FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37577
-#EXTINF:-1,PL| Lifetime FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37578
-#EXTINF:-1,PL| Lifetime HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37579
-#EXTINF:-1,PL| Polsat Cafe HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37580
-#EXTINF:-1,PL| Polsat Games FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37581
-#EXTINF:-1,PL| Polsatay FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37582
-#EXTINF:-1,PL| Polsatay HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37583
-#EXTINF:-1,PL| Polsatay
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37584
-#EXTINF:-1,PL| Polsat Rodzina FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37585
-#EXTINF:-1,PL| TVN Style FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37586
-#EXTINF:-1,PL| TVN Style
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37587
-#EXTINF:-1,PL| METRO
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37588
-#EXTINF:-1,PL| TVP Kultura
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37589
-#EXTINF:-1,PL| TV Puls FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37590
-#EXTINF:-1,PL| TV Puls HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37591
-#EXTINF:-1,PL| Puls 2
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37592
-#EXTINF:-1,PL| TV6 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37593
-#EXTINF:-1,PL| TV6 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37594
-#EXTINF:-1,PL| Nowa TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37595
-#EXTINF:-1,PL| Stopklatka TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37596
-#EXTINF:-1,PL| Sundance FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37597
-#EXTINF:-1,PL| Super Polsat FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37598
-#EXTINF:-1,PL| Superstacja
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37599
-#EXTINF:-1,PL| TV Republika HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37600
-#EXTINF:-1,PL| TV Republika
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37601
-#EXTINF:-1,PL| TVP FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37602
-#EXTINF:-1,PL| TVP HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37603
-#EXTINF:-1,PL| TVP Polonia
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37604
-#EXTINF:-1,PL| TVS
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37605
-#EXTINF:-1,PL| WP
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37606
-#EXTINF:-1,PL| Zest TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37607
-#EXTINF:-1,PL| Zoom TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37608
-#EXTINF:-1,PL| TV Trwam
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37609
-#EXTINF:-1,PL| TVP 3 Białystok
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37610
-#EXTINF:-1,PL| TVP 3 Bydgoszcz
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37611
-#EXTINF:-1,PL| TVP 3 Gdańsk
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37612
-#EXTINF:-1,PL| TVP 3 Katowice
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37613
-#EXTINF:-1,PL| TVP 3 Kielce
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37614
-#EXTINF:-1,PL| TVP 3 Kraków
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37615
-#EXTINF:-1,PL| TVP 3 Lublin
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37616
-#EXTINF:-1,PL| TVP 3 Olsztyn
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37617
-#EXTINF:-1,PL| TVP 3 Opole
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37618
-#EXTINF:-1,PL| TVP 3
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37619
-#EXTINF:-1,PL| TVP 3 Poznań
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37620
-#EXTINF:-1,PL| TVP 3 Rzeszów
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37621
-#EXTINF:-1,PL| TVP 3 Szczecin
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37622
-#EXTINF:-1,PL| TVP 3 Warszawa
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37623
-#EXTINF:-1,PL| TVP 3 Wrocław
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37624
-#EXTINF:-1,PL| TVP 3 Łódź
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37625
-#EXTINF:-1,PL| TV Kujawy
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37626
-#EXTINF:-1,PL| TV Toruń
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37627
-#EXTINF:-1,PL| TVT Zgorzelec
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37628
-#EXTINF:-1,PL| VOD 202
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37629
-#EXTINF:-1,PL| VOD 204
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37630
-#EXTINF:-1,PL| VOD 205
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37631
-#EXTINF:-1,PL| VOD 206
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37632
-#EXTINF:-1,PL| VOD 207
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37633
-#EXTINF:-1,PL| VOD 208
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37634
-#EXTINF:-1,PL| VOD 212
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37635
-#EXTINF:-1,PL| Canal+ NOW FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37641
-#EXTINF:-1,PL| Nicktoons HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37642
-#EXTINF:-1,PL| TVN HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37643
-#EXTINF:-1,PL| Eska Best Music
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37644
-#EXTINF:-1,PL| BBC LIFESTYLE FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37645
-#EXTINF:-1,PL| ESKA ROCK TV
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37646
-#EXTINF:-1,PL| BBC FIRST FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37647
-#EXTINF:-1,PL| Comedy Central Extra Polsat
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37648
-#EXTINF:-1,PL| MTV ROCKS
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37649
-#EXTINF:-1,PL| Fightklub FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37650
-#EXTINF:-1,PL| Red Carpet FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37652
-#EXTINF:-1,PL| TV Okazje
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37653
-#EXTINF:-1,PL| WPolsce
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37654
-#EXTINF:-1,PL| CANAL+ DOKUMENT HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37655
-#EXTINF:-1,PL| Boomerang FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37656
-#EXTINF:-1,PL| CBS Reality FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37657
-#EXTINF:-1,PL| BBC Earth FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37658
-#EXTINF:-1,PL| Biznes24 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37659
-#EXTINF:-1,PL| Kino TV FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37660
-#EXTINF:-1,PL| Kino Polska FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37661
-#EXTINF:-1,PL| StudioMed TV FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37662
-#EXTINF:-1,PL| SciFi FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37663
-#EXTINF:-1,PL| TVR
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37664
-#EXTINF:-1,PL| Eleven Sports 1 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37447
-#EXTINF:-1,PL| Eleven Sports 2 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37448
-#EXTINF:-1,PL| Eleven Sports 3 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37449
-#EXTINF:-1,PL| Eleven Sports 4 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37450
-#EXTINF:-1,PL| Canal+ Sport FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37451
-#EXTINF:-1,PL| Canal+ Sport HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37452
-#EXTINF:-1,PL| Canal+ Sport
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37453
-#EXTINF:-1,PL| Canal+ Sport 2 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37454
-#EXTINF:-1,PL| Canal+ Sport 2 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37455
-#EXTINF:-1,PL| Canal+ Sport 3 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37637
-#EXTINF:-1,PL| Canal+ Sport 3 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37638
-#EXTINF:-1,PL| Canal+ Sport 4 HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37639
-#EXTINF:-1,PL| Canal+ Sport 4 FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37640
-#EXTINF:-1,PL| Extreme Sports FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37456
-#EXTINF:-1,PL| Extreme Sports HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37457
-#EXTINF:-1,PL| Polsat Sport News HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37458
-#EXTINF:-1,PL| Polsat Sport FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37459
-#EXTINF:-1,PL| Polsat Sport HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37460
-#EXTINF:-1,PL| Polsat Sport
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37461
-#EXTINF:-1,PL| Polsat Sport Extra FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37462
-#EXTINF:-1,PL| Polsat Sport Extra HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37463
-#EXTINF:-1,PL| Polsat Sport Extra
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37464
-#EXTINF:-1,PL| Polsat Sport Premium 1 FHD VIP
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37465
-#EXTINF:-1,PL| Polsat Sport Premium 2 FHD VIP
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37466
-#EXTINF:-1,PL| POLSAT Sport Fight FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37467
-#EXTINF:-1,PL| Polsat Sport Fight HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37468
-#EXTINF:-1,PL| Polsat Sport Fight
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37469
-#EXTINF:-1,PL| Fight Channel World HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37470
-#EXTINF:-1,PL| Fight Network FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37471
-#EXTINF:-1,PL| Fightbox FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37472
-#EXTINF:-1,PL| Fightbox
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37473
-#EXTINF:-1,PL| nSport HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37474
-#EXTINF:-1,PL| nSport+ FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37475
-#EXTINF:-1,PL| Sport Klub FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37476
-#EXTINF:-1,PL| TVP Sport FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37477
-#EXTINF:-1,PL| TVP Sport HD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37478
-#EXTINF:-1,PL| Golf Channel FHD
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37479
-#EXTINF:-1,PL| KSW PPV (Match Time)
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37636
-#EXTINF:-1,PL| NTL
-http://tv.globesrv.com:80/userdb079d/355036ebb6/37651
+#EXTINF:-1,PL: HBO 1 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32545.ts
+#EXTINF:-1,PL: HBO 2 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32544.ts
+#EXTINF:-1,PL: HBO 3 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32543.ts
+#EXTINF:-1,PL: FILMBOX ARTHOUSE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32450.ts
+#EXTINF:-1,PL: FILMBOX EXTRA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/110897.ts
+#EXTINF:-1,PL: FILMBOX FAMILY
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32553.ts
+#EXTINF:-1,PL: FILMBOX PREMIUM FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32551.ts
+#EXTINF:-1,PL: KSW PPV (Live on Saturday) FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43696.ts
+#EXTINF:-1,PL: SUNDANCE TV FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43713.ts
+#EXTINF:-1,PL: BBC EARTH FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32594.ts
+#EXTINF:-1,PL: BBC BRIT POLSKA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70243.ts
+#EXTINF:-1,PL: BBC LIFESTYLE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70242.ts
+#EXTINF:-1,PL: SCIFI UNIVERSAL FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32462.ts
+#EXTINF:-1,PL: AXN
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32600.ts
+#EXTINF:-1,PL: AXN BLACK
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32602.ts
+#EXTINF:-1,PL: AXN SPIN FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32599.ts
+#EXTINF:-1,PL: AXN WHITE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32598.ts
+#EXTINF:-1,PL: EPIC DRAMA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/71005.ts
+#EXTINF:-1,PL: FOX COMEDY FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32549.ts
+#EXTINF:-1,PL: POLSAT COMEDY CENTRAL FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70999.ts
+#EXTINF:-1,PL: COMEDY CENTRAL POLSKA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32576.ts
+#EXTINF:-1,PL: COMEDY CENTRAL FAMILY POLSKA
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32583.ts
+#EXTINF:-1,PL: PARAMOUNT CHANNEL POLSKA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70997.ts
+#EXTINF:-1,PL: POLONIA 1
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43691.ts
+#EXTINF:-1,PL: KINO POLSKA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32538.ts
+#EXTINF:-1,PL: KINO POLSKA MUZYKA
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32539.ts
+#EXTINF:-1,PL: POLSAT 2 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32518.ts
+#EXTINF:-1,PL: POLSAT SERIALE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32517.ts
+#EXTINF:-1,PL: POLSAT CAFE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32516.ts
+#EXTINF:-1,PL: POLSAT FILM FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32514.ts
+#EXTINF:-1,PL: POLSAT SERIALE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32504.ts
+#EXTINF:-1,PL: SUPER POLSAT FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32500.ts
+#EXTINF:-1,PL: POLSAT PLAY FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43689.ts
+#EXTINF:-1,PL: POLSAT GAMES FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/86086.ts
+#EXTINF:-1,PL: POLSAT RODZINA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/86085.ts
+#EXTINF:-1,PL: TVP FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43680.ts
+#EXTINF:-1,PL: TVP 1 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32474.ts
+#EXTINF:-1,PL: TVP DOKUMENT FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32472.ts
+#EXTINF:-1,PL: TVP ABC
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32471.ts
+#EXTINF:-1,PL: TVP HISTORIA
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32469.ts
+#EXTINF:-1,PL: TVP INFO FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32487.ts
+#EXTINF:-1,PL: ACTIVE FAMILY
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32468.ts
+#EXTINF:-1,PL: TVP ROZRYWKA
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32446.ts
+#EXTINF:-1,PL: TVP POLONIA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43708.ts
+#EXTINF:-1,PL: TVN 24 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32485.ts
+#EXTINF:-1,PL: WP
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32484.ts
+#EXTINF:-1,PL: TVN 24 BiS HD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43681.ts
+#EXTINF:-1,PL: TVN 7 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32483.ts
+#EXTINF:-1,PL: VH1
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32475.ts
+#EXTINF:-1,PL: GOLD TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32482.ts
+#EXTINF:-1,PL: TVN STYLE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32479.ts
+#EXTINF:-1,PL: TVN TURBO FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32477.ts
+#EXTINF:-1,PL: TVN FABULA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43682.ts
+#EXTINF:-1,PL: STUDIOMED TV FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43686.ts
+#EXTINF:-1,PL: TV PULS 2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32498.ts
+#EXTINF:-1,PL: TV 6 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32486.ts
+#EXTINF:-1,PL: DOMO+  FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32575.ts
+#EXTINF:-1,PL: KUCHNIA+ FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32537.ts
+#EXTINF:-1,PL: CANAL+ DOKUMENT FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32590.ts
+#EXTINF:-1,PL: POLSAT DOKU FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/42454.ts
+#EXTINF:-1,PL: POLSAT VIASAT HISTORY HD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32499.ts
+#EXTINF:-1,PL: POLSAT VIASAT EXPLORE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43687.ts
+#EXTINF:-1,PL: POLSAT VIASAT NATURE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43714.ts
+#EXTINF:-1,PL: NAT GEO FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32530.ts
+#EXTINF:-1,PL: NAT GEO PEOPLE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32528.ts
+#EXTINF:-1,PL: DISCOVERY CHANNEL FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32574.ts
+#EXTINF:-1,PL: DISCOVERY HISTORIA
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32573.ts
+#EXTINF:-1,PL: DISCOVERY LIFE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32572.ts
+#EXTINF:-1,PL: DISCOVERY SCIENCE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32571.ts
+#EXTINF:-1,PL: INVESTIGATION DISCOVERY HD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32540.ts
+#EXTINF:-1,PL: DISCOVERY TURBO XTRA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32597.ts
+#EXTINF:-1,PL: ANIMAL PLANET FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32595.ts
+#EXTINF:-1,PL: HISTORY 2 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32449.ts
+#EXTINF:-1,PL: FOOD NETWORK FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43695.ts
+#EXTINF:-1,PL: LIFETIME FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/71003.ts
+#EXTINF:-1,PL: TRAVEL CHANNEL FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/71001.ts
+#EXTINF:-1,PL: CRIME & INVESTIGATION POLSAT FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/103972.ts
+#EXTINF:-1,PL: DA VINCI
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/103974.ts
+#EXTINF:-1,PL: BBC CBEEBIES
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70349.ts
+#EXTINF:-1,PL: CARTOON NETWORK FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32579.ts
+#EXTINF:-1,PL: DISNEY CHANNEL FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32567.ts
+#EXTINF:-1,PL: DISNEY JR
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32566.ts
+#EXTINF:-1,PL: DISNEY XD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32565.ts
+#EXTINF:-1,PL: NICKELODEON
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32524.ts
+#EXTINF:-1,PL: NICK JR
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32525.ts
+#EXTINF:-1,PL: NICKTOONS POLSKA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/71000.ts
+#EXTINF:-1,PL: TELETOON+ FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32456.ts
+#EXTINF:-1,PL: BABY TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70244.ts
+#EXTINF:-1,PL: JIMJAM POLSAT
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32511.ts
+#EXTINF:-1,PL: POLSAT MUSIC FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43690.ts
+#EXTINF:-1,PL: MTV POLSKA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43719.ts
+#EXTINF:-1,PL: TRACE URBAN
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32464.ts
+#EXTINF:-1,PL: VOX MUSIC TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32459.ts
+#EXTINF:-1,PL: 4 FUN DANCE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32454.ts
+#EXTINF:-1,PL: ESKA TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32561.ts
+#EXTINF:-1,PL: NOWA TV FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43718.ts
+#EXTINF:-1,PL: FOKUS TV FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32550.ts
+#EXTINF:-1,PL: METRO
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32568.ts
+#EXTINF:-1,PL: E! ENTERTAINMENT FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32531.ts
+#EXTINF:-1,PL: NUTA TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43717.ts
+#EXTINF:-1,PL: wPolsce.PL
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43705.ts
+#EXTINF:-1,PL: POLO TV FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32520.ts
+#EXTINF:-1,PL: POWER TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32523.ts
+#EXTINF:-1,PL: STARS TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32496.ts
+#EXTINF:-1,PL: STOPKLATKA TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32448.ts
+#EXTINF:-1,PL: TV REPUBLIKA
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32447.ts
+#EXTINF:-1,PL: TVS
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32465.ts
+#EXTINF:-1,PL: ZOOM TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32439.ts
+#EXTINF:-1,PL: BBC FIRST FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/103975.ts
+#EXTINF:-1,PL: RED CARPET FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/110896.ts
+#EXTINF:-1,PL: VOD 205
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32445.ts
+#EXTINF:-1,PL: VOD 206
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32443.ts
+#EXTINF:-1,PL: VOD 207
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32442.ts
+#EXTINF:-1,PL: VOD 208
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43707.ts
+#EXTINF:-1,PL: ELEVEN SPORTS 2 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32562.ts
+#EXTINF:-1,PL: ELEVEN SPORTS 3 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32564.ts
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM 1 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/70334.ts
+#EXTINF:-1,PL: POLSAT SPORT EXTRA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/74605.ts
+#EXTINF:-1,PL: TVP SPORT FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32466.ts
+#EXTINF:-1,PL: EXTREME SPORTS FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32558.ts
+#EXTINF:-1,PL: nSport+ FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32457.ts
+#EXTINF:-1,PL: CANAL+ PREMIUM FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/33053.ts
+#EXTINF:-1,PL: CANAL+ FAMILY FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32589.ts
+#EXTINF:-1,PL: CANAL+ SERIALE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/104731.ts
+#EXTINF:-1,PL: KINO TV FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32552.ts
+#EXTINF:-1,PL: FILMBOX ACTION
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32554.ts
+#EXTINF:-1,PL: 13 ULICA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32605.ts
+#EXTINF:-1,PL: AMC FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32603.ts
+#EXTINF:-1,PL: AXN FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32601.ts
+#EXTINF:-1,PL: TNT FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32492.ts
+#EXTINF:-1,PL: TOP KIDS
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43683.ts
+#EXTINF:-1,PL: CBS EUROPA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32585.ts
+#EXTINF:-1,PL: CBS REALITY FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32584.ts
+#EXTINF:-1,PL: POLSAT 1 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32513.ts
+#EXTINF:-1,PL: POLSAT NEWS 1 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32509.ts
+#EXTINF:-1,PL: POLSAT NEWS 2
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32510.ts
+#EXTINF:-1,PL: TVP 2 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32473.ts
+#EXTINF:-1,PL: TVP SERIALE
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32467.ts
+#EXTINF:-1,PL: TVP KULTURA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/43709.ts
+#EXTINF:-1,PL: WATER PLANET
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32480.ts
+#EXTINF:-1,PL: ROMANCE TV FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32497.ts
+#EXTINF:-1,PL: TV 4 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32489.ts
+#EXTINF:-1,PL: ALE KINO+ FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32596.ts
+#EXTINF:-1,PL: PLANETE+ POLSKA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32521.ts
+#EXTINF:-1,PL: HGTV HD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32522.ts
+#EXTINF:-1,PL: ADVENTURE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32604.ts
+#EXTINF:-1,PL: HISTORY FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32541.ts
+#EXTINF:-1,PL: TLC FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32494.ts
+#EXTINF:-1,PL: BOOMERANG FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32592.ts
+#EXTINF:-1,PL: MINIMINI+ FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32533.ts
+#EXTINF:-1,PL: MTV LIVE FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32535.ts
+#EXTINF:-1,PL: POLSAT COMEDY CENTRAL EXTRA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32460.ts
+#EXTINF:-1,PL: 4 FUN KIDS
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32453.ts
+#EXTINF:-1,PL: 4 FUN TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32452.ts
+#EXTINF:-1,PL: TTV FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32490.ts
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV 3 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/119087.ts
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV 4 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/119088.ts
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV 5 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/119089.ts
+#EXTINF:-1,PL: POLSAT SPORT PREMIUM PPV 6 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/119090.ts
+#EXTINF:-1,PL: ESKA ROCK
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/190523.ts
+#EXTINF:-1,PL: ESKA TV EXTRA
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/190524.ts
+#EXTINF:-1,PL: TVP 3
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/190525.ts
+#EXTINF:-1,PL: BIZNES24 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/190526.ts
+#EXTINF:-1,PL: DISCO POLO MUSIC
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/190527.ts
+#EXTINF:-1,PL: FOX FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/190528.ts
+#EXTINF:-1,PL: MTV MUSIC 24
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/190529.ts
+#EXTINF:-1,PL: NOVELA TV
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/190530.ts
+#EXTINF:-1,PL: NTL
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/190531.ts
+#EXTINF:-1,PL: SUPERSTACJA FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/190532.ts
+#EXTINF:-1,PL: TELE 5
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/191631.ts
+#EXTINF:-1,PL| POLAND |PL|
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198698.ts
+#EXTINF:-1,PL| SERIALE |PL|
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198700.ts
+#EXTINF:-1,PL| KINO |PL|
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198701.ts
+#EXTINF:-1,PL| KULTURA |PL|
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198702.ts
+#EXTINF:-1,PL| DZIECI |PL|
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198703.ts
+#EXTINF:-1,PL| MUZYKA |PL|
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198704.ts
+#EXTINF:-1,PL| INFORMACJA |PL|
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198705.ts
+#EXTINF:-1,PL: MTV 90s
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/236901.ts
+#EXTINF:-1,PL: NOVELAS+ FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/236905.ts
+#EXTINF:-1,PL: FIGHTBOX FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32557.ts
+#EXTINF:-1,PL: TVN FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32481.ts
+#EXTINF:-1,PL: TV PULS FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32437.ts
+#EXTINF:-1,PL: PPV FEN 34 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/198699.ts
+#EXTINF:-1,PL: CANAL+ SPORT 2 FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32580.ts
+#EXTINF:-1,PL: NAT GEO WILD FHD
+http://dmtn.tv:80/gen-pro-ress/TQK2KKVB4P/32527.ts
